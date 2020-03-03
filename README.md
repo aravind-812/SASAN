@@ -1,2 +1,12 @@
 # SASAN
-predicting the peack particle velocity of the blasts which occur in Coal mines
+Predicting the peack particle velocity of the blasts which occur in Coal mines
+**variables involved in the data**
+*No. of holes 
+Hole. dia.(mm)
+Hole depth(m)
+Burden(m)
+Spacing(m)
+Top stemming(m)
+Avg. Explosive Per hole(kg)
+Distance(m)
+PPV (mm/s)*
