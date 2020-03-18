@@ -10,3 +10,6 @@ Top stemming(m)
 Avg. Explosive Per hole(kg)
 Distance(m)
 PPV (mm/s)*
+
+SASAN-1
+improving accuracy from 55% to 83%
